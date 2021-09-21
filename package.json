@@ -1,0 +1,33 @@
+{
+	"name": "asoiaf-nn",
+	"version": "1.0.0",
+	"description": "A neural network for determining which ASOIAF characters will die in TWOW",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ArtInLines/ASOIAF-NN.git"
+	},
+	"keywords": [
+		"neural",
+		"network",
+		"Tenserflow",
+		"ASOIAF",
+		"Game",
+		"of",
+		"Thrones",
+		"data"
+	],
+	"author": "ArtInLines",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ArtInLines/ASOIAF-NN/issues"
+	},
+	"homepage": "https://github.com/ArtInLines/ASOIAF-NN#readme",
+	"dependencies": {
+		"@tensorflow/tfjs": "^3.9.0"
+	}
+}
