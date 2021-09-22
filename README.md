@@ -13,16 +13,20 @@ This is just for fun and to learn how to code neural networks with Tenserflow
 -   House:
     -   ["None", "Stark", etc.]
     -   maybe add mix-versions to show the mix of different houses in people? (i.e. for Joffrey, etc.)
+    -   maybe have it mean which house they are allied to, instead of born to (i.e. Hodor is of House Stark)
+-   isHighBorn: [0, 1]
 -   Location:
     -   ["Riverlands", "North", "The Wall", etc.]
     -   indicates the current location of the character
     -   maybe translate vague place-names into pseudo-coordinates, which would show the relation between places? (How would I do that though?)
 -   Birthplace:
     -   same type of data as for "Location"
+    -   decide whether this is relevant
 -   isEunuch: [0, 1]
 -   isWarg: [0, 1]
 -   isMagicUser: [0, 1] -- magicUser might be difficult to define
 -   hasValyrianSteel: [0, 1]
+-   hasDragonGlass: [0, 1]
 -   isPOV: [0, 1] - whether the character is a POV in this book
 -   wasPOV: [0, 1] - whether the character was a POV in an earlier book
 -   title:
@@ -35,6 +39,8 @@ This is just for fun and to learn how to code neural networks with Tenserflow
 -   isPretendingToBeSomeoneElse: [0, 1] -- property name is too long, lmao -- applies also to only very few people like "Sansa"
 -   isMarried: [0, 1] -- seems irrelevant, might remove
 -   hasGreyscale: [0, 1] -- might be contraproductive, since no character died with greyscale yet
+-   height: Positive Number in feet
+    -   Decide what to do with characters where the height is unknown
 -
 
 ==> Further Data Points about the book / world outside of the specific character
