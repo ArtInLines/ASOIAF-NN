@@ -66,8 +66,8 @@ function addCharToFile(ws, data) {
 	return writeToDataFile(ws, createChar(data));
 }
 
-function writeDataFile(path, ...data) {
-	const ws = startDataFile(path);
+function writeDataFile(path, keys = headers, ...data) {
+	const ws = startDataFile(path, keys);
 
 	function close(...args) {
 		return end(ws, ...args);

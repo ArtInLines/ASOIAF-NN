@@ -1,0 +1,2435 @@
+bookNr,name,dies,sex,age,isHighBorn,isWarg,isMagicUser,isBastard,isPOV,prevChapterAmount,hasValyrianSteel,height,hairColor,eyeColor,houseAllegiance,organization,location,title
+1,Gared,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Waymar Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Ser
+1,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Mance Rayder,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rayder,none,unknown,King
+1,Old Nan,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Robb Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Jon Snow,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Snow,none,unknown,
+1,Eddard Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+1,Theon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Robert Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,King
+1,Jory Cassel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cassel,none,unknown,
+1,Hullen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Harwin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Rodrik Cassel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cassel,none,unknown,Ser
+1,Rickon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Desmond,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Catelyn Stark,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lady
+1,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Arya Stark,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Sansa Stark,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Luwin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Jon Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lord
+1,Aerys II Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Hoster Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Lord
+1,Grand Maester Pycelle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+1,Robert Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,
+1,Brynden Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Ser
+1,Benjen Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Lysa Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lady
+1,Cersei Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Queen
+1,Tommen Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Prince
+1,ss Daenerys Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+1,Illyrio Mopatis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mopatis,none,unknown,Magister
+1,Viserys Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+1,Khal Drogo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+1,Rhaegar Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+1,ss Elia Martell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Princess
+1,Willem Darry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darry,none,unknown,Ser
+1,Aegon I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Khal Moro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+1,Khalakka Rhogoro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khalakka
+1,Jorah Mormont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,Ser
+1,Jaime Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+1,Sandor Clegane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Clegane,none,unknown,
+1,Tyrion Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Balon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lord
+1,Rickard Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+1,Lyanna Stark,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Howland Reed,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Reed,none,unknown,Lord
+1,Tywin Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Lord
+1,Joffrey Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Prince
+1,ss Myrcella Baratheon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Princess
+1,Daeron Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+1,Edmure Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Ser
+1,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+1,Arthur Dayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dayne,none,unknown,Ser
+1,Ashara Dayne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dayne,none,unknown,Lady
+1,Septa Mordane,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+1,Beth Cassel,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cassel,none,unknown,
+1,Lew,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Donnis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Serwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+1,Ryam Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Ser
+1,Aemon Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+1,Erryk Cargyll,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cargyll,none,unknown,Ser
+1,Arryk Cargyll,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cargyll,none,unknown,Ser
+1,Gerold Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+1,Barristan Selmy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Selmy,none,unknown,Ser
+1,Boros Blount,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blount,none,unknown,Ser
+1,Gage,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Mikken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Walder,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Stannis Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,
+1,Renly Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,
+1,Petyr Baelish,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baelish,none,unknown,Lord
+1,Grand Maester Aethelmure,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+1,Septon Chayle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+1,Ayrmidon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Irri,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Jhiqui,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Doreah,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Haggo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Ko Cohollo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ko
+1,Qotho,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Alyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Wylla,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Baelor I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Varys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Yoren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Loren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+1,Mern,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+1,Morrec,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Vayon Poole,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Poole,none,unknown,
+1,Hallis Mollen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mollen,none,unknown,
+1,Mycah,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Ilyn Payne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Payne,none,unknown,Ser
+1,ss Daeryssa,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Princess
+1,Naerys Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Queen
+1,Morgil,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+1,Raymun Darry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darry,none,unknown,Lord
+1,Captain Moreo Tumitis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tumitis,none,unknown,Captain
+1,Aron Santagar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Santagar,none,unknown,Ser
+1,Maegor I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Loras Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+1,Grenn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Alliser Thorne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Thorne,none,unknown,Ser
+1,Jeren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Todder,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Dareon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Pypar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Halder,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Commander Jeor Mormont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,Lord Commander
+1,Aemon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Donal Noye,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Noye,none,unknown,
+1,Cotter Pyke,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Pyke,none,unknown,
+1,Bowen Marsh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Marsh,none,unknown,
+1,Mace Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lord
+1,The Fat One,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,High Septon
+1,Helman Tallhart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,Ser
+1,Galbart Glover,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Glover,none,unknown,Lord
+1,Wyman Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,Lord
+1,Jaremy Rykker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rykker,none,unknown,Ser
+1,Jyck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Maege Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,Lady
+1,Yohn Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Lord
+1,Denys Mallister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallister,none,unknown,Ser
+1,Jeyne Poole,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Poole,none,unknown,
+1,Jacks,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Porther,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Tomard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Syrio Forel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Forel,none,unknown,
+1,Aegon III Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Maekar I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Colemon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Jaehaerys II Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Aegon V Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Grand Maester Malleon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+1,Hugh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+1,Rast,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Albett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Samwell Tarly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,
+1,Randyll Tarly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,Lord
+1,Qhorin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Mathis Rowan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rowan,none,unknown,Lord
+1,Janos Slynt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Slynt,none,unknown,
+1,Lann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Margaery Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+1,Varly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Beric Dondarrion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dondarrion,none,unknown,Lord
+1,Tobho Mott,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mott,none,unknown,
+1,Gendry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Masha Heddle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Heddle,none,unknown,
+1,Jason Mallister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallister,none,unknown,Lord
+1,Patrek Mallister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallister,none,unknown,
+1,Shella Whent,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Whent,none,unknown,Lady
+1,Walder Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lord
+1,Marillion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Alia,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Jonos Bracken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,Lord
+1,Gregor Clegane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Clegane,none,unknown,Ser
+1,Thoros,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Balon Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Ser
+1,Bryce Caron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caron,none,unknown,Lord
+1,Andar Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Ser
+1,Robar Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Ser
+1,Horas Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Ser
+1,Hobber Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Ser
+1,Jared Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Hosteen Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Danwell Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Emmon Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Theo Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Martyn Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+1,Jalabhar Xho,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Xho,none,unknown,
+1,Lothor Brune,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brune,none,unknown,
+1,Moon Boy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Lancel Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Dacks,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Anguy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Cayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Chiggen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Bronn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Mohor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Willis Wode,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wode,none,unknown,Ser
+1,Kurleket,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Lharys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Godwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Roose Bolton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bolton,none,unknown,Lord
+1,Tanda Stokeworth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stokeworth,none,unknown,Lady
+1,Donnel Waynwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,Ser
+1,Nestor Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Lord
+1,Mya Stone,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Stone,none,unknown,
+1,Mychel Redfort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,
+1,Lyn Corbray,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Corbray,none,unknown,Ser
+1,Vardis Egen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Egen,none,unknown,Ser
+1,Heward,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Wyl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Chataya,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Barra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Selyse Baratheon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lady
+1,Tregar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Joseth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Kyra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Bessa,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Stiv,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Hali,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Osha,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Farlen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Quent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Wallen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Wayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Mord,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Albar Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Ser
+1,Eon Hunter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hunter,none,unknown,Lord
+1,Anya Waynwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,Lady
+1,Martyn Cassel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cassel,none,unknown,
+1,Theo Wull,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wull,none,unknown,
+1,Ethan Glover,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Glover,none,unknown,
+1,Mark Ryswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryswell,none,unknown,Ser
+1,Willam Dustin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dustin,none,unknown,Lord
+1,Oswell Whent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Whent,none,unknown,Ser
+1,Alyssa Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,
+1,Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Lord
+1,Clement Piper,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Piper,none,unknown,Lord
+1,Morton Waynwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,Ser
+1,Gueren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Matthar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Hobb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Cuger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Clydas,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Chett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Gunthor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Gurn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Shagga,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Dolf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Conn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Coratt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Torrek,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Jaggot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Karyl Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Ser
+1,Arys Oakheart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oakheart,none,unknown,Ser
+1,Joss,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Marq Piper,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Piper,none,unknown,Ser
+1,Gladden Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,Ser
+1,Lothar Mallery,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallery,none,unknown,Lord
+1,Jonquil,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Florian,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+1,Tya Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Gowen Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,
+1,Khal Ogo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+1,Khalakka Fogo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khalakka
+1,Khal Jommo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+1,Preston Greenfield,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greenfield,none,unknown,Ser
+1,Kevan Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+1,Captain Qos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Captain
+1,Septon Cellador,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+1,Othell Yarwyck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yarwyck,none,unknown,
+1,Borcas,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Dickon Tarly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,
+1,Dywen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Mandon Moore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Moore,none,unknown,Ser
+1,Othor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Shella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Lady
+1,The Rainbow Knight,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Jafer Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+1,Bass,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Hake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Ketter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Rickard Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,Lord
+1,Harrion Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+1,Eddard Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+1,Torrhen Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+1,Medger Cerwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cerwyn,none,unknown,Lord
+1,Robin Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,Lord
+1,Robett Glover,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Glover,none,unknown,
+1,Halys Hornwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hornwood,none,unknown,Lord
+1,Jon Umber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Umber,none,unknown,Lord
+1,Captain Byan Votyris,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Votyris,none,unknown,Captain
+1,Quaro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Rakharo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Khal Bharbo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+1,Wylis Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,Ser
+1,Wendel Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,Ser
+1,Chella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Ulf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Umar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Timett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Timett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Flement Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,Ser
+1,Roland Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Lord
+1,Tytos Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Lord
+1,Addam Marbrand,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Marbrand,none,unknown,Ser
+1,Gyles Rosby,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rosby,none,unknown,Lord
+1,Dontos Hollard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hollard,none,unknown,Ser
+1,Stevron Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Tytos Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,Lord
+1,Doran Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+1,Lewyn Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+1,ss Rhaenys Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+1,Perwyn Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Ryger Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+1,Olyvar Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+1,Elmar Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+1,Endrew Tarth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,Ser
+1,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Rudge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Harren Hoare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hoare,none,unknown,King
+1,Jhogo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Mago,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Ko Jhaqo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ko
+1,Mirri Maz Duur,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Maz Duur,none,unknown,
+1,Archmaester Marwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+1,Leo Lefford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lefford,none,unknown,Lord
+1,Podrick Payne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Payne,none,unknown,
+1,Shae,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Lewys Lydden,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lydden,none,unknown,Lord
+1,rett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Serrett,none,unknown,Lord
+1,Jon Umber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Umber,none,unknown,
+1,Daryn Hornwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hornwood,none,unknown,
+1,Dacey Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,
+1,Gawen Westerling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Westerling,none,unknown,Lord
+1,Quenten Banefort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Banefort,none,unknown,Lord
+1,Garth Greenfield,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greenfield,none,unknown,Ser
+1,Regenard Estren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Estren,none,unknown,Lord
+1,Tytos Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,Ser
+1,Mallor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Eroeh,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Ko Pono,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ko
+1,Buu,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Symeon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Jon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Rickard Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Theon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Rodrik Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Torrhen Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+1,Cregan Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+1,Harys Swyft,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swyft,none,unknown,Ser
+1,Andros Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,Lord
+1,Forley Prester,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Prester,none,unknown,Ser
+1,Vargo Hoat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hoat,none,unknown,
+1,Amory Lorch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lorch,none,unknown,Ser
+1,Vyman,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Bethany Rowan,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rowan,none,unknown,
+1,Orys Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lord
+1,Argilac Durrandon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Durrandon,none,unknown,King
+1,Shireen Baratheon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lady
+1,Tyrek Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Joanna Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Lady
+1,Dorna Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Willem Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Martyn Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Janei Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Genna Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+1,Cleos Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+1,Tion Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+1,Tygett Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+1,Darlessa Marbrand,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Marbrand,none,unknown,
+1,Gerion Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Joy Hill,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Hill,none,unknown,
+1,Stafford Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+1,Cerenna Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Myrielle Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+1,Daven Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+1,Creylen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Jeyne Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lady
+1,Rowena Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lady
+1,Harwyn Hoare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hoare,none,unknown,King
+1,Arrec Durrandon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Durrandon,none,unknown,King
+1,Edmyn Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,
+1,Minisa Tully,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Lady
+1,Desmond Grell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grell,none,unknown,Ser
+1,Robin Ryger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryger,none,unknown,
+1,Utherydes Wayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wayn,none,unknown,
+1,Garth Gardener,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gardener,none,unknown,King
+1,Harlen Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lord
+1,Alerie Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+1,Willas Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+1,Garlan Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+1,Olenna Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+1,Mina Redwyne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Lady
+1,Paxter Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Lord
+1,Janna Fossoway,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,Lady
+1,Garth Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+1,Garse Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+1,Garrett Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+1,Moryn Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+1,Gormon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Lomys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Vortimer Crane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crane,none,unknown,Ser
+1,Desmera Redwyne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,
+1,Arwyn Oakheart,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oakheart,none,unknown,Lady
+1,Leyton Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Lord
+1,Jon Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,Ser
+1,The Grey King,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+1,Urron Greyiron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyiron,none,unknown,King
+1,Qhored Hoare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hoare,none,unknown,King
+1,Vickon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lord
+1,Alannys Greyjoy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lady
+1,Rodrik Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Maron Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Asha Greyjoy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Euron Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Victarion Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Aeron Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+1,Nymeria,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Queen
+1,Mors Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Lord
+1,Daeron II Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,ss Myriah Martell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Princess
+1,Mellario Martell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Lady
+1,ss Arianne Martell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Princess
+1,Quentyn Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+1,Trystane Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+1,Aegon Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+1,Oberyn Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+1,Captain Areo Hotah,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hotah,none,unknown,Captain
+1,Caleotte,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+1,Edric Dayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dayne,none,unknown,Lord
+1,Visenya Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+1,Rhaenys Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+1,Aenys Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+1,Jaehaerys I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Viserys I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Aegon II Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Rhaenyra Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+1,Daeron I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Viserys II Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Aerys I Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,King
+1,Rhaella Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Queen
+2,Cressen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Pylos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Patchface,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dalla,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Matrice,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Steffon Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lord
+2,Jommy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Harbert,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Davos Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,Ser
+2,Gulian Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Lord
+2,Salladhor Saan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Saan,none,unknown,
+2,Morosh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Melisandre,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Ardrian Celtigar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Celtigar,none,unknown,Lord
+2,Monford Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Lord
+2,Duram Bar Emmon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bar Emmon,none,unknown,Lord
+2,Axell Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Ser
+2,Guncer Sunglass,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sunglass,none,unknown,Lord
+2,Lommy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Hot Pie,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Lollys Stokeworth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stokeworth,none,unknown,
+2,Falyse Stokeworth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stokeworth,none,unknown,
+2,Ermesande Hayford,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hayford,none,unknown,Lady
+2,Morros Slynt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Slynt,none,unknown,
+2,Captain Vylarr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Captain
+2,Walder Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walder Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Hayhead,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Alebelly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Jammos Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Merrett Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walder Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walder Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walder Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+2,Waltyr Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Turnip,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Bandy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Shyra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Palla,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Calon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,TomToo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Praed,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Tarber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Malcolm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Lync,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Hod,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,William Mooton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mooton,none,unknown,Lord
+2,Jaqen H'ghar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,H'ghar,none,unknown,
+2,Rorge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Biter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Reysen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Cutjack,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Kurz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Koss,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dobber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Redwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dorren Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Conwy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Thoren Smallwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,
+2,Arnell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Aerion Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+2,Burton Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+2,Hendry Bracken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,
+2,Allar Deem,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Deem,none,unknown,
+2,Jacelyn Bywater,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bywater,none,unknown,Ser
+2,Murch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Allard Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Dale Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Septon Barre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+2,Hubard Rambton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rambton,none,unknown,Ser
+2,Maric Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Matthos Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Devan Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Marya Seaworth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Bryen Farring,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farring,none,unknown,
+2,Azor Ahai,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Nissa Nissa,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Cassana Baratheon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lady
+2,Delena Norcross,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,
+2,Edric Storm,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Storm,none,unknown,
+2,Sawane Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,Lord
+2,Gorold Goodbrother,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,Lord
+2,Sylas,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dagmer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Helya,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Qalen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Wendamyr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Lynesse Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,
+2,Tregar Ormollen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ormollen,none,unknown,
+2,Pyat Pree,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Pree,none,unknown,
+2,Xaro Xhoan Daxos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Xhoan Daxos,none,unknown,
+2,Quaithe,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Eddison Tollett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tollett,none,unknown,
+2,Jarman Buckwell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Buckwell,none,unknown,
+2,Mallador Locke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Locke,none,unknown,Ser
+2,Bedwyck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Ottyn Wythers,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wythers,none,unknown,Ser
+2,Woth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Gerren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Urreg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Qyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Frenken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Ironbelly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Salloreon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Alayaya,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Poxy Tym,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Donella Hornwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hornwood,none,unknown,Lady
+2,Domeric Bolton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bolton,none,unknown,
+2,Heke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Mors Umber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Umber,none,unknown,
+2,Hother Umber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Umber,none,unknown,
+2,Larence Snow,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Snow,none,unknown,
+2,Leobald Tallhart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,
+2,Benfred Tallhart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,
+2,Beren Tallhart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,
+2,Ondrew Locke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Locke,none,unknown,Lord
+2,Lyessa Flint,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,Lady
+2,Cley Cerwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cerwyn,none,unknown,
+2,Tallad,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Wisdom Hallyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Wisdom
+2,Weasel,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Munciter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Malliard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rossart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Lord
+2,Crawn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Calor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Skittrick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Meera Reed,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Reed,none,unknown,
+2,Jojen Reed,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Reed,none,unknown,
+2,Shadd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Colen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Ronnet Connington,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,Ser
+2,Brienne Tarth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,
+2,Selwyn Tarth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,Lord
+2,Lorent Caswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caswell,none,unknown,Lord
+2,Lucas Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+2,Willum,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Willum,none,unknown,Lord
+2,Josua Willum,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Willum,none,unknown,
+2,Elyas Willum,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Willum,none,unknown,
+2,Steffon Varner,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Varner,none,unknown,Lord
+2,Guyard Morrigen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Morrigen,none,unknown,Ser
+2,Mark Mullendore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mullendore,none,unknown,Ser
+2,Tanton Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,Ser
+2,Cortnay Penrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Penrose,none,unknown,Ser
+2,Craster,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Lark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Gilly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Nella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Bernarr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Raymun Redbeard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redbeard,none,unknown,King
+2,Bael,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+2,Gendel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+2,Gorne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+2,Joramun,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Esgred,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Sigrin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Otter Gimpknee,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gimpknee,none,unknown,
+2,Bluetooth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rymolf Stormdrunk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stormdrunk,none,unknown,
+2,Uller,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Qarl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Skyte,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Eldiss,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Wex Pyke,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Pyke,none,unknown,
+2,Rolfe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Donnel Locke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Locke,none,unknown,Ser
+2,The Tickler,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Chiswyck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rafford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Shitmouth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dunsen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Goodwife Amabel,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Goodwife
+2,Goodwife Harra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Goodwife
+2,Weese,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Saathos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Captain Quhuru Mo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mo,none,unknown,Captain
+2,Dancy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Marei,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Pia,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Alyn Stackspear,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stackspear,none,unknown,Ser
+2,Wat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dunaver,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Jodge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Tothmure,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Joss Stilwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stilwood,none,unknown,
+2,Eggon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Layna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Tobbot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Durran Godsgrief,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Godsgrief,none,unknown,King
+2,Elenei,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rupert Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,Ser
+2,Lymond Vikary,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vikary,none,unknown,Ser
+2,Antario Jast,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Jast,none,unknown,Lord
+2,Septon Osmynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+2,Parmen Crane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crane,none,unknown,Ser
+2,Emmon Cuy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cuy,none,unknown,Ser
+2,Gawen Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,Ser
+2,Alester Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Lord
+2,Stygg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Werlag,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Tymor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Urzen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Lorren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Gevin Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,
+2,Maron Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+2,Todric,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Andrik,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dunstan Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,Lord
+2,Lucan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Lyonel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Tuffleberry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rymund,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Enger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Delp,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Lew,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Poul Pemford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Pemford,none,unknown,
+2,Myles,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Mathos Mallarawan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallarawan,none,unknown,
+2,Wendello Qar Deeth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Qar Deeth,none,unknown,
+2,Egon Emeros,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Emeros,none,unknown,
+2,Osmund Kettleblack,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kettleblack,none,unknown,Ser
+2,Osney Kettleblack,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kettleblack,none,unknown,
+2,Osfryd Kettleblack,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kettleblack,none,unknown,
+2,Bryan Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,Ser
+2,Eldon Estermont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Estermont,none,unknown,Lord
+2,Erren Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Ser
+2,Elwood Meadows,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Meadows,none,unknown,Lord
+2,Rattleshirt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Harma,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Alfyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,The Weeping Man,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Ebben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Symon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Kym,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Deremond,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Deremond,none,unknown,Lord
+2,Mebble,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Aenys Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Cadwyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Ben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Shagwell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Holger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Wisdom Pollitor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Wisdom
+2,Drennan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Squint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Aggar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Gynir,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Dalbridge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Stonesnake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Ygritte,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Jeffory Mallister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallister,none,unknown,
+2,Kyle Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,
+2,Elbert Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,
+2,Kromm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Cadwyl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Imry Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Ser
+2,Arneld,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Urrathon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Sybassion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Belwas,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Walton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Septon Utt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+2,Qyburn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Urswyck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Harys Haigh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Haigh,none,unknown,Ser
+2,Philip Foote,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Foote,none,unknown,Ser
+2,Edwyd Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,Ser
+2,Willit,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Josmyn Peckledon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peckledon,none,unknown,
+2,Bonifer Hasty,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hasty,none,unknown,Ser
+2,Dermot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Timon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Aurane Waters,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Waters,none,unknown,
+2,Dykk Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,
+2,Endehar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Rolfe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Harrag Sharp,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sharp,none,unknown,
+2,Kenned,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Ramsay Snow,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Snow,none,unknown,
+2,Ballabar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Ragwyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Edwyle Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Willam Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Artos Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+2,Donnor Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Beron Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Rodwell Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Jonnel Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Barth Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord
+2,Edwyn Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Jorah Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Jonos Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Walton Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Edderion Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Eyron Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Benjen Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Benjen Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Edrick Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,King
+2,Aemon Estermont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Estermont,none,unknown,Ser
+2,Alyn Estermont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Estermont,none,unknown,Ser
+2,Shyra Errol,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Errol,none,unknown,Lady
+2,Donnel Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Ser
+2,Jurne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Lomas Estermont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Estermont,none,unknown,Ser
+2,Andrew Estermont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Estermont,none,unknown,Ser
+2,Stannis Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Steffon Seaworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seaworth,none,unknown,
+2,Lyman Darry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darry,none,unknown,
+2,Halmon Paege,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Paege,none,unknown,Ser
+2,Berena Tallhart,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,
+2,Brandon Tallhart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,
+2,Eddara Tallhart,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tallhart,none,unknown,
+2,Sybelle Glover,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Glover,none,unknown,Lady
+2,Gawen Glover,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Glover,none,unknown,
+2,Erena Glover,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Glover,none,unknown,
+2,Robert Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,Ser
+2,Captain Igon Vyrwel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vyrwel,none,unknown,Captain
+2,Butterbumps,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Melara Florent,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Lady
+2,Alekyne Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,
+2,Melessa Tarly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,Lady
+2,Rhea Hightower,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Lady
+2,Ryam Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Ser
+2,Colin Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Ser
+2,Hosman Norcross,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,Ser
+2,Alester Norcross,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,
+2,Renly Norcross,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,
+2,Omer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Merrell Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,
+2,Rylene Crane,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crane,none,unknown,
+2,Rycherd Crane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crane,none,unknown,Ser
+2,Waldon Wynch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wynch,none,unknown,Lord
+2,Rodrik Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,Lord
+2,Stonehouse,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stonehouse,none,unknown,Lord
+2,Norne Goodbrother,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,Lord
+2,Meldred Merlyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merlyn,none,unknown,Lord
+2,Sparr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sparr,none,unknown,Lord
+2,Baelor Blacktyde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blacktyde,none,unknown,Lord
+2,Donnor Saltcliffe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Saltcliffe,none,unknown,Lord
+2,Sunderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sunderly,none,unknown,Lord
+2,Marwyn Belmore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Belmore,none,unknown,Ser
+2,Myranda Royce,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,
+2,Perra Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Corenna Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Ryman Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Edwyn Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Janyce Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walda Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Petyr Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Mylenda Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Perra Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Jeyne Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Aegon Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Maegelle Vance,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+2,Dafyn Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Ser
+2,Marianne Vance,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+2,Walder Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+2,Patrek Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+2,Marsella Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walton Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Deana Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Steffon Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walda Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Bryan Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Tywin Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Willem Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Melesa Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Tyana Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Aegon Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Rhaegar Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Jeyne Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Robert Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walda Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Jonos Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Perriane Haigh,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Haigh,none,unknown,
+2,Leslyn Haigh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Haigh,none,unknown,Ser
+2,Walder Haigh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Haigh,none,unknown,
+2,Donnel Haigh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Haigh,none,unknown,Ser
+2,Alyn Haigh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Haigh,none,unknown,
+2,Cyrenna Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Alys Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Tytos Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Zhoe Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Zia Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Zachery Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Kyra Goodbrook,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrook,none,unknown,
+2,Walder Goodbrook,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrook,none,unknown,
+2,Jeyne Goodbrook,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrook,none,unknown,
+2,Septon Luceon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+2,Amarei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Bellena Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Arwood Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Ryella Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Ryella Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Androw Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Alyn Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Lythene Vypren,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vypren,none,unknown,Lady
+2,Lucias Vypren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vypren,none,unknown,
+2,Elyana Wylde,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,
+2,Jon Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,
+2,Rickard Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,
+2,Damon Vypren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vypren,none,unknown,Ser
+2,Symond Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Betharios Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Alesander Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Alyx Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Bradamar Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Oro Tendyris,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tendyris,none,unknown,
+2,Wynafrei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Mariya Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Amerei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+2,Walda Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Marissa Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Geremy Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Carolei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Sandor Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Cynthea Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Raymund Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Beony Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Robert Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Malwyn Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,ra Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Sarra Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Cersei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Alyssa Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Lothar Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Leonella Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Tysane Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Walda Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Emberlei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Sallei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Dickon Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Mathis Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Whalen Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Sylwa Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Hoster Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Damon Paege,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Paege,none,unknown,Ser
+2,Merianne Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Morya Brax,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,Lady
+2,Robert Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,
+2,Walder Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,
+2,Jon Brax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brax,none,unknown,
+2,Tyta Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Sarya Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Bethany Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Benfrey Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+2,Jyanna Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Della Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Osmund Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Willamen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Roslin Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Annara Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Arwyn Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Wendel Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Colmar Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Shirei Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+2,Joyeuse Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lady
+2,Aemon Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,Ser
+2,Walda Rivers,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+2,Melwys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+2,Jeyne Rivers,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+2,Ronel Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+2,Mellara Rivers,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+2,Aladale Wynch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wynch,none,unknown,Ser
+2,Elron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+2,Cugen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Paul,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Blane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grubbs,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Aethan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bannen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Softfoot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Kedge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Goady,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Donnel Hill,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Hill,none,unknown,
+3,Dirk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Karl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ollo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bessa,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Sawwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Maslyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Iggo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Kennos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Arryk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Erryk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Megga Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Alla Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Elinor Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Leonette Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+3,Septa Nysterica,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+3,Alyce Graceford,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Graceford,none,unknown,Lady
+3,Alysanne Bulwer,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bulwer,none,unknown,Lady
+3,Meredyth Crane,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crane,none,unknown,
+3,Taena Merryweather,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merryweather,none,unknown,Lady
+3,Luthor Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lord
+3,Lenyl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ryk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Orell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Styr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tormund,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dalla,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Val,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Jarl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Commander Qorgyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Qorgyle,none,unknown,Lord Commander
+3,Orland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Mullin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Captain Groleo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Captain
+3,Myles Mooton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mooton,none,unknown,Ser
+3,Richard Lonmouth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lonmouth,none,unknown,Ser
+3,Jon Connington,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,Lord
+3,Khal Temmo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+3,Khorane Sathmantes,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sathmantes,none,unknown,
+3,Tristimun,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Meizo Mahr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mahr,none,unknown,
+3,Jate Blackberry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackberry,none,unknown,
+3,Lucos Chyttering,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Chyttering,none,unknown,Lord
+3,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Hal,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Warren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Sumner Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+3,Harlan Grandison,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grandison,none,unknown,Ser
+3,Grand Maester Gerardys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+3,Turquin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Erreck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Beldecar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lem,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tom,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Sharna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Husband,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Sybell Westerling,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Westerling,none,unknown,Lady
+3,Rolph Spicer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Spicer,none,unknown,Ser
+3,Raynald Westerling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Westerling,none,unknown,Ser
+3,Elenya Westerling,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Westerling,none,unknown,
+3,Rollam Westerling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Westerling,none,unknown,
+3,Jeyne Stark,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Queen
+3,Mag Mar Tun Doh Weg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mar Tun Doh Weg,none,unknown,
+3,Lump,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Toregg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dormund,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Munda,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Alyn Ambrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ambrose,none,unknown,
+3,Arthur Ambrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ambrose,none,unknown,Lord
+3,Jack-Be-Lucky,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Pello,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bernarr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Talla Tarly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,
+3,Mawney,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tyrion's High Septon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,High Septon
+3,Horton Redfort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,Lord
+3,Sebaston Farman,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farman,none,unknown,Lord
+3,Elwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Karlon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+3,Timeon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Maynard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Lymond Lychester,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lychester,none,unknown,Lord
+3,Ben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Erreg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+3,Ravella Smallwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,Lady
+3,Carellen Smallwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,
+3,Kraznys mo Nakloz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,mo Nakloz,none,unknown,
+3,Porridge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lamprey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Arson,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grigg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grazdan mo Ullhor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,mo Ullhor,none,unknown,
+3,Grazdan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grazdan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grazdan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grazdan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Missandei,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Denys Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Ser
+3,Wilbert,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Alyce,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tansy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Cass,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lanna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Jyzene,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Helly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Leslyn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Errok,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Zollo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Galyeon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bethany,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Aemon Costayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Costayne,none,unknown,
+3,Alaric,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Hamish,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Collio Quaynis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Quaynis,none,unknown,
+3,Tommen II Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,King
+3,Fornio,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Byam Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,Ser
+3,Garth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Garth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Alan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ronnel Harclay,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harclay,none,unknown,
+3,Tim Stone,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Stone,none,unknown,
+3,Ulmer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Simon Toyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Toyne,none,unknown,
+3,Oswyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Wenda,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Rolley Of Sisterton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Of Sisterton,none,unknown,
+3,Bill,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Garth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Oss,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dyah,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ferny,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lennocks,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Goodman Beck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Goodman
+3,Mudge,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Merriman,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Andrey Charlton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Charlton,none,unknown,Ser
+3,Lucas Roote,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Roote,none,unknown,
+3,Deddings,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Deddings,none,unknown,Lord
+3,Deddings,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Deddings,none,unknown,Lady
+3,Joth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Matt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ormond,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Dudley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Wyl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Goodwife Maerie,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Goodwife
+3,Maerie,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Becca,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Harsley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Goodwife Nolla,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Goodwife
+3,Dennet,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Kyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Melly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Daemon I Blackfyre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackfyre,none,unknown,
+3,Terrence Toyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Toyne,none,unknown,Ser
+3,The Vulture King,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grand Maester Hareth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+3,Hugh Grandison,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grandison,none,unknown,Lord
+3,Cafferen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cafferen,none,unknown,Lord
+3,Belgrave,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Belgrave,none,unknown,Lord
+3,Gilbert Farring,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farring,none,unknown,Ser
+3,Lester Morrigen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Morrigen,none,unknown,Lord
+3,Jonothor Darry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darry,none,unknown,Ser
+3,Wisdom Belis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Wisdom
+3,Wisdom Garigus,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Wisdom
+3,Qarlton Chelsted,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Chelsted,none,unknown,Lord
+3,Alys Karstark,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+3,Deziel Dalt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dalt,none,unknown,Ser
+3,Tremond Gargalen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gargalen,none,unknown,Lord
+3,Harmen Uller,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Uller,none,unknown,Lord
+3,Ulwyck Uller,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Uller,none,unknown,Ser
+3,Ryon Allyrion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Allyrion,none,unknown,Ser
+3,Daemon Sand,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,Ser
+3,Dagos Manwoody,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manwoody,none,unknown,Lord
+3,Myles Manwoody,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manwoody,none,unknown,Ser
+3,Mors Manwoody,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manwoody,none,unknown,
+3,Dickon Manwoody,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manwoody,none,unknown,
+3,Arron Qorgyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Qorgyle,none,unknown,Ser
+3,Myria Jordayne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Jordayne,none,unknown,
+3,Larra Blackmont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackmont,none,unknown,Lady
+3,Jynessa Blackmont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackmont,none,unknown,
+3,Ellaria Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Merlon Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+3,Anders Yronwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yronwood,none,unknown,Lord
+3,Leo Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Notch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Watty,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Merrit,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Harte,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harte,none,unknown,Lord
+3,Jayde,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Puddingfoot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Luke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Alysanne Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Queen
+3,Big Boil,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dick Follard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Follard,none,unknown,
+3,Septon Cellador,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+3,Wynton Stout,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stout,none,unknown,Ser
+3,Quort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bodger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Del,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Henk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Toefinger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Stone Thumbs,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lenn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grey Worm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Prendahl na Ghezn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,na Ghezn,none,unknown,
+3,Sallor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Daario Naharis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Naharis,none,unknown,
+3,Mero,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grazdan mo Eraz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,mo Eraz,none,unknown,
+3,Gergen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Allyria Dayne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dayne,none,unknown,
+3,Lymond Goodbrook,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrook,none,unknown,Lord
+3,Nage,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Walderan Tarbeck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarbeck,none,unknown,Lord
+3,Jenny,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tristifer IV Mudd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mudd,none,unknown,King
+3,Tristifer V Mudd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mudd,none,unknown,King
+3,Raymar Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Lord
+3,Ryles,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Roote,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Roote,none,unknown,Lord
+3,Andahar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+3,Lew,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Brenett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Ronnel Stout,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stout,none,unknown,
+3,Kyle Condon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Condon,none,unknown,Ser
+3,Sedgekins,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Gerald Gower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gower,none,unknown,Ser
+3,Septon Murmison,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+3,Ambrose Butterwell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Butterwell,none,unknown,Lord
+3,Myles Smallwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,
+3,Otto Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+3,Baelor Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+3,Septon Barth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+3,Fell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fell,none,unknown,Lord
+3,Silveraxe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Roro Uhoris,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Uhoris,none,unknown,
+3,Mully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Satin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Commander Runcel Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Lord Commander
+3,Commander Rodrik Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,Lord Commander
+3,Commander Tristan Mudd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mudd,none,unknown,Lord Commander
+3,Commander Marq Rankenfell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rankenfell,none,unknown,Lord Commander
+3,Commander Robin Hill,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Hill,none,unknown,Lord Commander
+3,Su,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Meliana,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Kegs,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Spare Boot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Easy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Dilly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Alyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Henly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Henly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Owen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,The Night's King,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,The Rat Cook,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Danny Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,
+3,Sherrit,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+3,Mad Axe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Rodrik Ryswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryswell,none,unknown,Lord
+3,Oznak zo Pahl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Pahl,none,unknown,
+3,Ben Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,
+3,Scarb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Brella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grand Maester Kaeth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+3,Bessa,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Ralph Buckler,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Buckler,none,unknown,Lord
+3,Oswell Kettleblack,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kettleblack,none,unknown,
+3,Bertram Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Ser
+3,Samwell Spicer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Spicer,none,unknown,
+3,Dennis Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,
+3,Harwyn Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,
+3,Peter Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,
+3,Lewys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Triston,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Omer Blackberry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackberry,none,unknown,
+3,Rolland Storm,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Storm,none,unknown,Ser
+3,Hareth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Zei,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Arron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Emrick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,The Demon of Darry,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Lord Commander
+3,Duncan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+3,Commander Alyn Connington,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,Lord Commander
+3,Duncan Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+3,Maelys I Blackfyre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackfyre,none,unknown,
+3,Lormelle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Cedrik Storm,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Storm,none,unknown,
+3,Gwayne Gaunt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gaunt,none,unknown,Ser
+3,Jeyne Swann,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Lady
+3,The Smiling Knight,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Blackshield/The Bastard of Uplands,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Robert Stone,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Stone,none,unknown,Ser
+3,Elwood Harte,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harte,none,unknown,Ser
+3,Kella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Bryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Grisel,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Umfred,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lyonel Corbray,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Corbray,none,unknown,Lord
+3,Watt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tumberjon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Tim,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Glendon Hewett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hewett,none,unknown,Ser
+3,Baelor Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,
+3,Ghael,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Cleon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+3,Septa Donyse,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+3,Torwynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Quenn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Hop-Robin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lum,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Lester,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Harmune,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Emmett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Garse Goodbrook,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrook,none,unknown,Ser
+3,Jothos Slynt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Slynt,none,unknown,
+3,Danos Slynt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Slynt,none,unknown,
+3,Alesander Staedmon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Staedmon,none,unknown,
+3,Togg Joth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Joth,none,unknown,
+3,Pyg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Three Toes,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Jonelle Cerwyn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cerwyn,none,unknown,
+3,Monterys Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Lord
+3,Cadwyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Triston Farwynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farwynd,none,unknown,Lord
+3,Maron Volmark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Volmark,none,unknown,Lord
+3,Myre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Myre,none,unknown,Lord
+3,Stonetree,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stonetree,none,unknown,Lord
+3,Alyn Orkwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Orkwood,none,unknown,Lord
+3,Balon Tawney,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tawney,none,unknown,Lord
+3,Jeyne Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+3,Lyonel Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+3,Damion Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+3,Shiera Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Lady
+3,Lucion Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+3,Lanna Jast,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Jast,none,unknown,
+3,Margot Peake,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,
+3,Titus Peake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,Lord
+3,Benedict Broom,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Broom,none,unknown,Ser
+3,Damon Marbrand,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Marbrand,none,unknown,Lord
+3,Tybolt Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+3,Lyle Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+3,Philip Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,Lord
+3,Steffon Swyft,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swyft,none,unknown,Ser
+3,Joanna Swyft,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swyft,none,unknown,
+3,Shierle Sarsfield,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sarsfield,none,unknown,
+3,Selmond Stackspear,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stackspear,none,unknown,Lord
+3,Steffon Stackspear,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stackspear,none,unknown,Ser
+3,Terrence Kenning,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kenning,none,unknown,Lord
+3,Obara Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Nymeria Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Tyene Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Sarella Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Elia Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Obella Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Dorea Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Loreza Sand,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Sand,none,unknown,
+3,Perros Blackmont,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackmont,none,unknown,
+3,Delonne Allyrion,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Allyrion,none,unknown,Lady
+3,Nymella Toland,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Toland,none,unknown,Lady
+3,Ronald Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Ser
+3,Hugo Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Ser
+3,Ellery Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Ser
+3,Kirth Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+3,Robert Paege,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Paege,none,unknown,Ser
+3,Tristan Ryger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryger,none,unknown,
+3,Norbert Vance,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,Lord
+3,Theomar Smallwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,Lord
+3,Mern IX Gardener,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gardener,none,unknown,King
+3,Luthor Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+3,Elyn Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+3,Theodore Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+3,Lia Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+3,Luthor Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Medwick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Olene Blackbar,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackbar,none,unknown,
+3,Leo Blackbar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackbar,none,unknown,Ser
+3,Leo Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Quentin Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+3,Olymer Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+3,Lysa Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lady
+3,Raymund Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Rickard Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Normund,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Victor Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+3,Victaria Bulwer,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bulwer,none,unknown,
+3,Jon Bulwer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bulwer,none,unknown,Lord
+3,Leo Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Ser
+3,Alys Beesbury,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Lady
+3,Leona Tyrell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Lyonel Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Lucas Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Lorent Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,
+3,Orton Merryweather,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merryweather,none,unknown,
+3,Ebben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Hal,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Jack Bulwer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bulwer,none,unknown,
+3,Wallace Massey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Massey,none,unknown,
+3,Dennett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+3,Roone,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+3,Dryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Mollander,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Alleras,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Roone,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Rosey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Emma,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Armen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Archmaester Ebrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Walgrave,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Benedict,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Vaellyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Perestan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Mollos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Archmaester Ryam,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Emmond,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Steffarion Sparr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sparr,none,unknown,
+,Greydon Goodbrother,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,
+,Gormond Goodbrother,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,
+,Gran Goodbrother,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,
+,Norjen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Rus,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Tarle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Quellon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lord
+,Harlon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+,Greyjoy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lady
+,Donel Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+,Urrigon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+,Greyjoy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lady
+,Robin Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+,Gysella Goodbrother,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,
+,Gwin Goodbrother,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,
+,Murenmure,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Greyjoy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lady
+,Urras Ironfoot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ironfoot,none,unknown,King
+,Sylas Flatnose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flatnose,none,unknown,King
+,Harrag Hoare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hoare,none,unknown,King
+,Olyvar Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,
+,Jeyne Fowler,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fowler,none,unknown,
+,Jennelyn Fowler,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fowler,none,unknown,
+,Ricasso,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Manfrey Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Ser
+,Myles,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Senelle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Jocelyn Swyft,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swyft,none,unknown,
+,Puckens,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Shortear,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Rugen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Illifer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Creighton Longbough,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Longbough,none,unknown,Ser
+,Herbert Bolling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bolling,none,unknown,Ser
+,Lucas Lothston,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lothston,none,unknown,Lord
+,Manfryd Lothston,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lothston,none,unknown,
+,Shadrich,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Hibald,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Naggle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Galladon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Septon Jorquen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Commander Orbert Caswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caswell,none,unknown,Lord Commander
+,Colloquo Votar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Votar,none,unknown,
+,Thomax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Commander Osric Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,Lord Commander
+,Denyo Terys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Terys,none,unknown,
+,Captain Ternesio Terys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Terys,none,unknown,Captain
+,Yorko Terys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Terys,none,unknown,
+,The Waif,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Lambert Turnberry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Turnberry,none,unknown,Ser
+,Balman Byrch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Byrch,none,unknown,Ser
+,Garth XII Gardener,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gardener,none,unknown,King
+,Quenton Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Lord
+,Rennifer Longwaters,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Longwaters,none,unknown,
+,Alyn Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Lord
+,Danelle Lothston,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lothston,none,unknown,Lady
+,Denys Darklyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darklyn,none,unknown,Lord
+,Rufus Leek,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Leek,none,unknown,Ser
+,ala,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Lady
+,Symon Hollard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hollard,none,unknown,Ser
+,Jon Hollard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hollard,none,unknown,Ser
+,Robin Hollard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hollard,none,unknown,
+,Steffon Hollard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hollard,none,unknown,Ser
+,Septa Roelle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Dick Crabb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crabb,none,unknown,
+,Humfrey Wagstaff,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wagstaff,none,unknown,
+,Gretchel,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Maddy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Symond Templeton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Templeton,none,unknown,
+,Benedar Belmore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Belmore,none,unknown,Lord
+,Samwell Stone,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Stone,none,unknown,
+,Ronnel Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,
+,Boremund Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,
+,Hotho Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,
+,Harras Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,Ser
+,Sigfryd Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,
+,Three-Tooth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Tristifer Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,Lord
+,Harren Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Gwynesse Greyjoy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lady
+,Theomore Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,Lord
+,Aenar Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Lord
+,Beron Blacktyde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blacktyde,none,unknown,
+,The Old Grey Gull,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Archmaester Haereg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Rigney,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Denestan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Germund Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,Lord
+,Joseran,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Jon Myre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Myre,none,unknown,
+,Lucas Codd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Codd,none,unknown,
+,Harren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Red Oarsman,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Kemmett Pyke,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Pyke,none,unknown,
+,Rodrik Freeborn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Freeborn,none,unknown,
+,Torwold Browntooth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Browntooth,none,unknown,
+,Melara Hetherspoon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hetherspoon,none,unknown,
+,Ossifer Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,
+,Wat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Maggy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Owen Merryweather,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merryweather,none,unknown,Lord
+,Edgerran Oakheart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oakheart,none,unknown,Lord
+,Alester Oakheart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oakheart,none,unknown,
+,Olyvar Oakheart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oakheart,none,unknown,Ser
+,Septa Eglantine,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Gascoyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Maron Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+,Lucamore Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,Ser
+,Criston Cole,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cole,none,unknown,Ser
+,Alyse Ladybright,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ladybright,none,unknown,Lady
+,Cedric Payne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Payne,none,unknown,Ser
+,Lorimer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Hyle Hunt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hunt,none,unknown,Ser
+,Alyn Hunt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hunt,none,unknown,Ser
+,Ben Bushy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bushy,none,unknown,Ser
+,Richard Farrow,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farrow,none,unknown,Ser
+,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Edmund Ambrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ambrose,none,unknown,Ser
+,Hugh Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Ser
+,Owen Inchfield,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Inchfield,none,unknown,Ser
+,Clarence Crabb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crabb,none,unknown,Ser
+,Meggett,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Commander Brynden Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,Lord Commander
+,Garrison Prester,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Prester,none,unknown,Lord
+,Robin Moreland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Moreland,none,unknown,Lord
+,Jon Bettley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bettley,none,unknown,
+,Humfrey Swyft,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swyft,none,unknown,
+,The Greatheart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Gyles,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Orivel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Addison Hill,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Hill,none,unknown,Ser
+,Michael Mertyns,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mertyns,none,unknown,Ser
+,Jeffory Norcross,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,Ser
+,Tom Costayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Costayne,none,unknown,Ser
+,Donnel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Robert Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,Ser
+,Rolland Darklyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darklyn,none,unknown,Ser
+,Dorcas,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Septon Raynard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Septon Torbert,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Septon Ollidor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Nute,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Ralf Stonehouse,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stonehouse,none,unknown,
+,Ralf Kenning,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kenning,none,unknown,
+,Ralf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Fralegg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Alvyn Sharp,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sharp,none,unknown,
+,Will Humble,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Humble,none,unknown,
+,Lenwood Tawney,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tawney,none,unknown,
+,Romny Weaver,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Weaver,none,unknown,
+,Eldred Codd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Codd,none,unknown,
+,Stonehand,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Quellon Humble,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Humble,none,unknown,
+,Ralf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Ralf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Qarl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Sigfry Stonetree,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stonetree,none,unknown,
+,Gylbert Farwynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farwynd,none,unknown,Lord
+,Erik Ironmaker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ironmaker,none,unknown,
+,Thormor Ironmaker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ironmaker,none,unknown,
+,Denys Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,
+,Donnel Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,
+,Dale Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,
+,Roryn Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,
+,Gormond Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,
+,Hilmar Drumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drumm,none,unknown,
+,Harmund Sharp,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sharp,none,unknown,
+,Harrag Sharp,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sharp,none,unknown,
+,Lucifer Hardy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hardy,none,unknown,Lord
+,Old Crackbones,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Rupert Crabb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crabb,none,unknown,
+,Clement Crabb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crabb,none,unknown,
+,Raymond Nayland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Nayland,none,unknown,Ser
+,Harry Sawyer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sawyer,none,unknown,
+,Robin Potter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Potter,none,unknown,
+,Eustace Brune,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brune,none,unknown,Lord
+,Andrey Dalt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dalt,none,unknown,Ser
+,Sylva Santagar,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Santagar,none,unknown,Lady
+,Garin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Gerold Dayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dayne,none,unknown,Ser
+,Ormond Yronwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yronwood,none,unknown,Lord
+,Cletus Yronwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yronwood,none,unknown,
+,Dake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Rolder,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Rosamund Lannister,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,
+,The Kindly Man,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Umma,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Luco Prestayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Prestayn,none,unknown,
+,Uthero Zalyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Zalyne,none,unknown,
+,The Fat Fellow,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Stern Face,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Handsome Man,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Squinter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Lordling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Starved Man,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Brusco,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Gilwood Hunter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hunter,none,unknown,Ser
+,Mela,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Gerold Grafton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grafton,none,unknown,Lord
+,Jon Lynderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lynderly,none,unknown,Lord
+,Edmund Waxley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waxley,none,unknown,Lord
+,Helliweg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Septon Lucos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Harrold Hardyng,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hardyng,none,unknown,Ser
+,Harlan Hunter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hunter,none,unknown,
+,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Noho Dimittis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dimittis,none,unknown,
+,Portifer Woodwright,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Woodwright,none,unknown,Ser
+,Jeyne Clifton,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Clifton,none,unknown,
+,Septon Meribald,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Willam,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Robin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Owen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Jon Pox,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Pox,none,unknown,
+,The Moonshadow,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Terro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Orbelo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Yna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Xhondo Dhoru,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dhoru,none,unknown,
+,Gulian,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Lewys Piper,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Piper,none,unknown,
+,Roger Hogg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hogg,none,unknown,Ser
+,Bayard Norcross,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,Ser
+,Courtenay Greenhill,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greenhill,none,unknown,Ser
+,Lucantine Woodwright,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Woodwright,none,unknown,Ser
+,Russell Merryweather,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merryweather,none,unknown,
+,The High Sparrow,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Wulfe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Ragnor Pyke,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Pyke,none,unknown,
+,Talbert Serry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Serry,none,unknown,Ser
+,Humfrey Hewett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hewett,none,unknown,Lord
+,Falia Flowers,0,F,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+,Cragorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Garrett Paege,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Paege,none,unknown,
+,Quincy Cox,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cox,none,unknown,Ser
+,ss Daena Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+,Brother Narbert,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Brother
+,Brother Gillam,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Brother
+,Brother Rawney,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Brother
+,Brother Clement,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Brother
+,Septon Bennet,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+,Galladon Tarth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,
+,Alysanne Tarth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,
+,Arianne Tarth,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,
+,Dagon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lord
+,Moribald Chester,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Chester,none,unknown,Lord
+,Osbert Serry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Serry,none,unknown,Lord
+,Guthor Grimm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grimm,none,unknown,Lord
+,Manfryd Yew,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yew,none,unknown,Ser
+,Raynard Ruttiger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ruttiger,none,unknown,Ser
+,Ellyn Tarbeck,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarbeck,none,unknown,Lady
+,Talea,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Brea,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Beqqo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Lotho Lornel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lornel,none,unknown,
+,Captain Moredo Prestayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Prestayn,none,unknown,Captain
+,Roggo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Lanna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Gyloro Dothare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dothare,none,unknown,
+,Gyleno Dothare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dothare,none,unknown,
+,Quill,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Tagganaro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Cossomo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Wat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,S'vrone,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Drunken Daughter,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Jeyne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Meralyn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Bethany,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Assadora,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Poetess,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Merling Queen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Veiled Lady,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Bellegere Otherys,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Otherys,none,unknown,
+,Bellonara Otherys,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Otherys,none,unknown,
+,Bellegere Otherys,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Otherys,none,unknown,
+,Narbo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Joss,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Quence,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Allaquo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Sloey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Myrmello,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,The Sailor's Wife,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Ezzelyno,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Eustace,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Kojja Mo,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Grand Maester Ellendor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+,Grand Maester Merion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+,Jon Heddle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Heddle,none,unknown,
+,Willow Heddle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Heddle,none,unknown,
+,Jeyne Heddle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Heddle,none,unknown,
+,Wat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Tansy,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Jon Penny,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Penny,none,unknown,
+,Ben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Hugh Clifton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Clifton,none,unknown,
+,Bors,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Timoth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Morra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Mellei,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Cedra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Belandra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Franklyn Fowler,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fowler,none,unknown,Lord
+,Ben Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,
+,Jordayne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Jordayne,none,unknown,Lady
+,Frynne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Kedry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+,Artys Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Ser
+,Terrance Lynderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lynderly,none,unknown,
+,Gyles Grafton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grafton,none,unknown,
+,Ossy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Carrot,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Byron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Morgarth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+,Jasper Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lord
+,Alys Waynwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,
+,Elys Waynwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,Ser
+,Septa Moelle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Septa Aglantine,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Septa Melicent,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Theodan Wells,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wells,none,unknown,Ser
+,Septa Unella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Septa Scolera,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+,Humfrey Waters,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Waters,none,unknown,
+,Jate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Gunthor Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+,Garth Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+,Humfrey Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+,Lorcas,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Archmaester Theobald,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Norren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Gorghan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Hoke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Willam Wythers,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wythers,none,unknown,Ser
+,Richard Horpe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Horpe,none,unknown,Ser
+,Justin Massey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Massey,none,unknown,Ser
+,Clayton Suggs,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Suggs,none,unknown,Ser
+,Godry Farring,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farring,none,unknown,Ser
+,Harwood Fell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fell,none,unknown,Lord
+,Corliss Penny,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Penny,none,unknown,Ser
+,Quenton Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+,Gyles Farwynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farwynd,none,unknown,
+,Ygon Farwynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farwynd,none,unknown,
+,Yohn Farwynd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farwynd,none,unknown,
+,Urek Ironmaker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ironmaker,none,unknown,
+,Dagon Ironmaker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ironmaker,none,unknown,
+,Symond Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Harlon Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Vickon Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Bennarion Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Balon Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Quellon Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Sargon Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Lucimore Botley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Botley,none,unknown,
+,Beron Blacktyde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blacktyde,none,unknown,
+,Lucas Corbray,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Corbray,none,unknown,Ser
+,Triston Sunderland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sunderland,none,unknown,Lord
+,Godric Borrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Borrell,none,unknown,Lord
+,Rolland Longthorpe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Longthorpe,none,unknown,Lord
+,Alesandor Torrent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Torrent,none,unknown,Lord
+,Royce Coldwater,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Coldwater,none,unknown,Lord
+,Damon Shett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Shett,none,unknown,Ser
+,Uthor Tollett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tollett,none,unknown,Lord
+,Wallace Waynwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,
+,Eustace Hunter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hunter,none,unknown,Ser
+,Jasper Redfort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,Ser
+,Creighton Redfort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,Ser
+,Jon Redfort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,Ser
+,Ysilla Redfort,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,
+,Hostella Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+,Leana Frey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+,Rhonda Hightower,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,
+,Malora Hightower,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,
+,Denyse Redwyne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,
+,Desmond Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Ser
+,Denys Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,
+,Leyla Cupps,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cupps,none,unknown,
+,Jon Cupps,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cupps,none,unknown,Ser
+,Alysanne Ambrose,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ambrose,none,unknown,Lady
+,Jeyne Fossoway,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,
+,Tommen Costayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Costayne,none,unknown,Lord
+,Martyn Mullendore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mullendore,none,unknown,Lord
+,Warryn Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Lord
+,Branston Cuy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cuy,none,unknown,Lord
+,Archmaester Gallard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Castos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Zarabelo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Garizon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Nymos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Cetheres,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Willifer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Mollos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Harodon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Guyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Agrivane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Archmaester Ocley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+,Gareth Clifton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Clifton,none,unknown,Ser
+,Liane Vance,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+,Rhialta Vance,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+,Emphyria Vance,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vance,none,unknown,
+,Bennard Brune,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Brune,none,unknown,Ser
+,Meg,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Jon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+,Geoff,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Haggon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Thistle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Mother Mole,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Bump,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Borroq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Briar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Grisella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Meha,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Runceford Redwyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redwyne,none,unknown,Lord
+5,Ordello,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Magister
+5,Stalwart Shield,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Shield,none,unknown,
+5,Reznak mo Reznak,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,mo Reznak,none,unknown,
+5,Skahaz mo Kandaq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,mo Kandaq,none,unknown,
+5,Galazza Galare,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Galare,none,unknown,
+5,Hizdahr zo Loraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Loraq,none,unknown,
+5,Grazdan zo Galare,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Galare,none,unknown,
+5,Lyanna Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,
+5,Arnolf Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+5,Pytho Malanon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Malanon,none,unknown,
+5,Aegor Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,Ser
+5,Hugor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+5,ra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gerris Drinkwater,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drinkwater,none,unknown,Ser
+5,Willam Wells,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wells,none,unknown,
+5,Ynys Yronwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yronwood,none,unknown,
+5,Gwyneth Yronwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yronwood,none,unknown,
+5,Archibald Yronwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yronwood,none,unknown,Ser
+5,Commander Jack Musgood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Musgood,none,unknown,Lord Commander
+5,Harmond Umber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Umber,none,unknown,Lord
+5,Manly Stokeworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stokeworth,none,unknown,
+5,Jack Crabb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crabb,none,unknown,
+5,Rusty Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+5,Haldon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Rolly Duckfield,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Duckfield,none,unknown,Ser
+5,Khal Motho,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+5,Khal Zekko,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Khal
+5,Byron Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Ser
+5,Grand Maester Munkun,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+5,Aemond Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+5,Septa Lemore,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septa
+5,Urho,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Korra,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Lady
+5,The Shrouded Lord,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Harry Strickland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strickland,none,unknown,Ser
+5,Lomas Longstrider,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Longstrider,none,unknown,
+5,Ysilla,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gella,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Marq Grafton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grafton,none,unknown,
+5,Ben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Sigorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Halleck,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Black Fist,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Cetherys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Mossador,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Duran,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Eladon Goldenhair,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Loyal Spear,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Marselen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Rylona Rhee,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rhee,none,unknown,
+5,Khrazz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Barsena,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Camarron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Goghor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,The Spotted Cat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Ithoke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Belaquo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Hazzea,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Ben,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Damon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Grunt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Alyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Skinner,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Dick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Yandry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Galendro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Triarch Malaquo Maegyr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Maegyr,none,unknown,Triarch
+5,Triarch Nyessos Vhassar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vhassar,none,unknown,Triarch
+5,Triarch Doniphos Paenymion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Paenymion,none,unknown,Triarch
+5,Casso Mogat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mogat,none,unknown,
+5,Mezzara Merreq,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merreq,none,unknown,
+5,Jaqqa Rhan Rommo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Jaqqa Rhan
+5,Mollono Yos Dob,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Yos Dob,none,unknown,
+5,Symon Stripeback,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stripeback,none,unknown,
+5,Wick Whittlestick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Whittlestick,none,unknown,
+5,Hoarfrost Umber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Umber,none,unknown,Lord
+5,Sweet,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sweet,none,unknown,Lord
+5,Marlon Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,Ser
+5,Theomore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Leona Manderly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,Lady
+5,Wylla Manderly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,
+5,Dagon Codd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Codd,none,unknown,
+5,Adrack Humble,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Humble,none,unknown,
+5,Roger Ryswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryswell,none,unknown,
+5,Rickard Ryswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryswell,none,unknown,
+5,Ty,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Rory,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Butts,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Qavo Nogarys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Nogarys,none,unknown,
+5,Triarch Horonno,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Triarch
+5,Benerro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Qezza,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Grazhar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Cleon the Second,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+5,Cutthroat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,King
+5,Whore,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Queen
+5,Mazdhan zo Loraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Loraq,none,unknown,
+5,Hazrak zo Loraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Loraq,none,unknown,
+5,Zharaq zo Loraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Loraq,none,unknown,
+5,Myles Toyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Toyne,none,unknown,
+5,Franklyn Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+5,Marq Mandrake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mandrake,none,unknown,
+5,Balaq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gorys Edoryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Edoryen,none,unknown,
+5,Lysono Maar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Maar,none,unknown,
+5,Watkyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Laswell Peake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,
+5,Tristan Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,Ser
+5,Dick Straw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Straw,none,unknown,
+5,Bill Bone,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bone,none,unknown,
+5,Myrio Myrakis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Myrakis,none,unknown,
+5,The Tattered Prince,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Caggo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Baqq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gerrold Redback,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redback,none,unknown,
+5,Gerrold,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Books,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Bloodbeard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Yurkhaz zo Yunzak,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Yunzak,none,unknown,
+5,Yezzan zo Qaggaz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Qaggaz,none,unknown,
+5,Malazza,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Paezhar zo Myraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Myraq,none,unknown,
+5,Ghazdor zo Ahlaq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Ahlaq,none,unknown,
+5,Morghaz zo Zherzyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Zherzyn,none,unknown,
+5,The Beastmaster,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gorzhak zo Eraz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Eraz,none,unknown,
+5,Faezhar zo Faez,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Faez,none,unknown,
+5,The Charioteer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,The Perfumed Hero,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Denzo D'han,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,D'han,none,unknown,
+5,Meris,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Hugh Hungerford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hungerford,none,unknown,
+5,Lewis Lanster,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lanster,none,unknown,
+5,Orson Stone,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Stone,none,unknown,Ser
+5,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Lucifer Long,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Long,none,unknown,Ser
+5,Webber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Quenton Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+5,Dagon Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,
+5,Cromm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Qarl Kenning,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kenning,none,unknown,
+5,Qarl Quickaxe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Quickaxe,none,unknown,
+5,Hagen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Torgon Greyiron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyiron,none,unknown,
+5,Urragon Goodbrother,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goodbrother,none,unknown,
+5,Lorren Longaxe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Longaxe,none,unknown,
+5,Harl,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Grimtongue,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Rolfe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Roggon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Dale,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Methyso,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Alios Qhaedar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Qhaedar,none,unknown,
+5,Widow of the Waterfront,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Vogarro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Parquello Vaelaros,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vaelaros,none,unknown,
+5,Belicho Staegone,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Staegone,none,unknown,
+5,Triarch Trianna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Triarch
+5,Oppo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Penny,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Jacaerys Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Prince
+5,Garth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Therry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Bartimus,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+5,Osgood Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,King
+5,Oswin Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,King
+5,Brandon Stark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stark,none,unknown,
+5,Wynafryd Manderly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,
+5,Miklaz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Kezmya Pahl,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Pahl,none,unknown,
+5,Ezzara,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Morgan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Merrel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Alf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Harwood Stout,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stout,none,unknown,Lord
+5,Will Short,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Short,none,unknown,
+5,Barbrey Dustin,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dustin,none,unknown,Lady
+5,Roose Ryswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryswell,none,unknown,
+5,Luton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Uthor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Moqorro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Triarch Belicho,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Triarch
+5,Hop-Bean,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Ash,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Leaf,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Scales,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Black Knife,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Snowylocks,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Coals,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Tom Barleycorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Barleycorn,none,unknown,
+5,Duncan Liddle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Liddle,none,unknown,
+5,Luke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Leathers,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Jax,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Alysane Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,
+5,Slate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Slate,none,unknown,Lord
+5,Medrick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Rhodry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Henly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Walys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Daenerys Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+5,Wun Weg Wun Dar Wun,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Weg Wun Dar Wun,none,unknown,
+5,Myrtle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Holly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Rowan,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Beron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Morgan Liddle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Liddle,none,unknown,
+5,Brandon Norrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norrey,none,unknown,Lord
+5,Hugo Wull,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wull,none,unknown,
+5,Artos Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,
+5,Robin Peasebury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peasebury,none,unknown,Lord
+5,Lyra Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,
+5,Jorelle Mormont,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mormont,none,unknown,
+5,Benjicot Branch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Branch,none,unknown,
+5,Harys Cobb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cobb,none,unknown,Ser
+5,William Foxglove,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Foxglove,none,unknown,
+5,Donnel Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,
+5,Jack,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Narbert Grandison,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grandison,none,unknown,Ser
+5,Benethon Scales,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Scales,none,unknown,Ser
+5,Brus Buckler,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Buckler,none,unknown,Ser
+5,Patrek,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+5,Dorden,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+5,Malegorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+5,Lambert Whitewater,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Whitewater,none,unknown,Ser
+5,Perkin Follard,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Follard,none,unknown,Ser
+5,Tycho Nestoris,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Nestoris,none,unknown,
+5,Dannel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Cregan Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+5,Tormo Fregar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fregar,none,unknown,
+5,Pynto,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gelmarr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Nurse,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Zahrina,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Sweets,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Hildy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Barba Bracken,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,Lady
+5,Melissa Blackwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,Lady
+5,Bethany Blackwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Benjicot Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Robert Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Brynden Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Hoster Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Harry Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+5,Harry Merrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merrell,none,unknown,
+5,Harsley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Lacey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Torghen Flint,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Flint,none,unknown,Lord
+5,Gylo Rhegan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rhegan,none,unknown,
+5,Hero,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Marghaz zo Loraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Loraq,none,unknown,
+5,Squirrel,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Willow,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Frenya,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Tom Codd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Codd,none,unknown,
+5,Daegon Shepherd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Shepherd,none,unknown,
+5,Rodrik Sparr,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sparr,none,unknown,
+5,Kerwin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+5,Burton Humble,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Humble,none,unknown,
+5,Longwater Pyke,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Pyke,none,unknown,
+5,Scar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Morgo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Viserys Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,
+5,Tybero Istarion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Istarion,none,unknown,
+5,Kasporio,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Maris,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Fulk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Garrett,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Soren Shieldbreaker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Shieldbreaker,none,unknown,
+5,Gerrick Kingsblood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Kingsblood,none,unknown,
+5,Harle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Harle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Howd Wanderer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wanderer,none,unknown,
+5,Brogg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Devyn Sealskinner,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sealskinner,none,unknown,
+5,Kyleg,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Morna,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,The Great Walrus,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Harghaz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Malo Jayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Jayn,none,unknown,
+5,Brendel Byrne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Byrne,none,unknown,Ser
+5,Armond Connington,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,Lord
+5,Ronald Connington,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,Ser
+5,Raymund Connington,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,
+5,Alynne Connington,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Connington,none,unknown,
+5,Ronald Storm,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Storm,none,unknown,
+5,Dick Cole,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cole,none,unknown,
+5,Lymond Pease,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Pease,none,unknown,
+5,Canty,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Humfrey Clifton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Clifton,none,unknown,Ser
+5,Ormund Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,Ser
+5,Ned Woods,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Woods,none,unknown,
+5,Arthor Karstark,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Karstark,none,unknown,
+5,Fingers,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Rook,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Tom Tidewood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tidewood,none,unknown,
+5,Steffar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Manfryd Merlyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Merlyn,none,unknown,
+5,Izembaro,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Robert Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,Ser
+5,Bokkoko,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Snatch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Kem,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Hammer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Kennet,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Nail,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Steelskin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Shiera Seastar,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Seastar,none,unknown,
+5,Grazdar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Azzak,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Bhakaz,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Dhazzar,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Tumco Lho,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lho,none,unknown,
+5,Larraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,The Red Lamb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Walter Whent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Whent,none,unknown,Lord
+5,Draqaz,0,?,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Jezhene,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Gavin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Doss,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Ygon Oldfather,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oldfather,none,unknown,
+5,Tal Toraq,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Toraq,none,unknown,
+5,Jokin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,The Widower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Renfred Rykker,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rykker,none,unknown,Lord
+5,Tyrion Tanner,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tanner,none,unknown,
+5,Eerl Harlaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Harlaw,none,unknown,
+5,Richard Morrigen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Morrigen,none,unknown,Ser
+5,Arstan Selmy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Selmy,none,unknown,Lord
+5,Casper Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,Lord
+5,Sebastion Errol,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Errol,none,unknown,Lord
+5,Clifford Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Lord
+5,Mary Mertyns,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mertyns,none,unknown,Lady
+5,Alysanne Lefford,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lefford,none,unknown,Lady
+5,Lorent Lorch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lorch,none,unknown,Ser
+5,Tybolt Hetherspoon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hetherspoon,none,unknown,Ser
+5,Quentyn Qorgyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Qorgyle,none,unknown,Lord
+5,Symon Santagar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Santagar,none,unknown,Ser
+5,Trebor Jordayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Jordayne,none,unknown,Lord
+5,Daeron Vaith,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vaith,none,unknown,Lord
+5,Jyana Reed,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Reed,none,unknown,
+5,Bethany Bolton,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bolton,none,unknown,Lady
+5,Brandon Norrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norrey,none,unknown,
+5,Torren Liddle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Liddle,none,unknown,Lord
+5,Rickard Liddle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Liddle,none,unknown,
+5,Alyn Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Edmund Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,
+5,Barbara Bracken,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,
+5,Jayne Bracken,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,
+5,Catelyn Bracken,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,
+5,Bess Bracken,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,
+5,Alysanne Bracken,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,
+5,Eleanor Tarly,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,
+5,Old Tattersalt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Maynard Holt,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Holt,none,unknown,Ser
+5,Russ Barleycorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Barleycorn,none,unknown,
+5,Ferrego Antaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Antaryon,none,unknown,
+5,Qarro Volentin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Volentin,none,unknown,
+5,The Daughter of the Dusk,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,The Nightingale,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,Chezdhar zo Rhaezn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Rhaezn,none,unknown,
+5,Maezon zo Rhaezn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Rhaezn,none,unknown,
+5,Grazdhan zo Rhaezn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,zo Rhaezn,none,unknown,
+5,Torman Peake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,
+5,Pykewood Peake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,
+5,Caspor Hill,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Hill,none,unknown,
+5,Humfrey Stone,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Stone,none,unknown,
+5,Will Cole,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cole,none,unknown,
+5,Lorimas Mudd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mudd,none,unknown,
+5,Jon Lothston,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lothston,none,unknown,
+5,Duncan Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,
+5,Denys Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,
+5,Chains,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+5,John Mudd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mudd,none,unknown,
+5,Uhlan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Arlan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Pearse Caron,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caron,none,unknown,Lord
+0,Lyonel Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Ser
+0,Otho Bracken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,Ser
+0,Quentyn Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,Lord
+0,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Plummer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Ashford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ashford,none,unknown,Lord
+0,Manfred Dondarrion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dondarrion,none,unknown,Ser
+0,Valarr Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Matarys Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Gawen Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Lord
+0,Henly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Roland Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+0,Ashford,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ashford,none,unknown,Lady
+0,Florent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Florent,none,unknown,Lord
+0,Steffon Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,Ser
+0,Grance Morrigen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Morrigen,none,unknown,Ser
+0,Raymun Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,
+0,Dondarrion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dondarrion,none,unknown,Lord
+0,Rhaegel Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Stokeworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stokeworth,none,unknown,Lord
+0,The Bastard of Harrenhal,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Damon Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Lord
+0,Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lord
+0,Tanselle,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Androw Ashford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ashford,none,unknown,
+0,Robert Ashford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ashford,none,unknown,
+0,Humfrey Hardyng,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hardyng,none,unknown,Ser
+0,Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lord
+0,Royce,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Lord
+0,Tybolt Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+0,Medgar Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Lord
+0,Abelar Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+0,Joseth Mallister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallister,none,unknown,Ser
+0,Humfrey Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Ser
+0,Robyn Rhysling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rhysling,none,unknown,Ser
+0,Wate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Yorkel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Yormwell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+0,Robin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Eustace Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,Ser
+0,Bennis,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Rohanne Webber,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Webber,none,unknown,Lady
+0,Sam Stoops,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stoops,none,unknown,
+0,Dake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Cerrick,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+0,Jorgen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Jeyne,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Edwyn Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,Ser
+0,Harrold Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,Ser
+0,Addam Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,
+0,Wilbert Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,Ser
+0,Lancel IV Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,King
+0,Lancel V Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,King
+0,Gyles III Gardener,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Gardener,none,unknown,King
+0,Alysanne Osgrey,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,
+0,Wendell Webber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Webber,none,unknown,Ser
+0,Wyman Webber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Webber,none,unknown,Lord
+0,Mudge,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Lem,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Pate,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Rob,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Will Barleycorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Barleycorn,none,unknown,
+0,Wat Barleycorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Barleycorn,none,unknown,
+0,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Wat,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Roger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Perwyn Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,Lord
+0,Ormond Osgrey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Osgrey,none,unknown,Lord
+0,Reynard Webber,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Webber,none,unknown,Lord
+0,Lucas Inchfield,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Inchfield,none,unknown,Ser
+0,Cassella Vaith,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vaith,none,unknown,Lady
+0,ss Rhae Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+0,ss Daella Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+0,Hayford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hayford,none,unknown,Lord
+0,Ambrose Butterwell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Butterwell,none,unknown,Lord
+0,Donnel Arryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lord
+0,Wyl Waynwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Waynwood,none,unknown,
+0,Gwayne Corbray,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Corbray,none,unknown,Ser
+0,Septon Sefton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+0,Helicent Webber,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Webber,none,unknown,Lady
+0,Farman,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Farman,none,unknown,Lord
+0,Bracken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,Lord
+0,Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Lord
+0,Aelinor Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Queen
+0,Rolland Uffering,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Uffering,none,unknown,Ser
+0,Simon Staunton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Staunton,none,unknown,Ser
+0,Cleyton Caswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caswell,none,unknown,Ser
+0,Simon Leygood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Leygood,none,unknown,Ser
+0,Gerold Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+0,Quentyn Ball,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ball,none,unknown,Ser
+0,Manfred Lothston,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lothston,none,unknown,
+0,Quickfinger,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Ulrick Dayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dayne,none,unknown,Ser
+0,Robb Reyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Reyne,none,unknown,Ser
+0,Gareth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Aubrey Ambrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ambrose,none,unknown,Ser
+0,Gormon Peake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,Lord
+0,Byren Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+0,Redtusk,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Stackhouse,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stackhouse,none,unknown,Lord
+0,Clifford Corklyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Corklyn,none,unknown,Ser
+0,Ferret,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Rafe,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Pudding,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Alyn Cockshaw,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Cockshaw,none,unknown,Lord
+0,Daemon II Blackfyre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackfyre,none,unknown,
+0,Ned,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Shawney,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Shawney,none,unknown,Lord
+0,Costayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Costayne,none,unknown,Lord
+0,Kyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Glendon Ball,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ball,none,unknown,Ser
+0,Maynard Plumm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Plumm,none,unknown,Ser
+0,Morgan Dunstable,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dunstable,none,unknown,Ser
+0,Joffrey Caswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caswell,none,unknown,Lord
+0,Armond Caswell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Caswell,none,unknown,Lord
+0,Melaquin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+0,Smallwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,Lord
+0,Smallwood,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Smallwood,none,unknown,Lady
+0,William Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,Ser
+0,Lefford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lefford,none,unknown,Lord
+0,Penrose,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Penrose,none,unknown,Lady
+0,Kirby Pimm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Pimm,none,unknown,Ser
+0,Vyrwell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vyrwell,none,unknown,Lord
+0,Buford Bulmer,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bulmer,none,unknown,Ser
+0,Uthor Underleaf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Underleaf,none,unknown,Ser
+0,Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lord
+0,Risley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Risley,none,unknown,Lord
+0,Leo Longthorn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Longthorn,none,unknown,Lord
+0,Franklyn Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+0,Lucas Nayland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Nayland,none,unknown,Ser
+0,Mortimer Boggs,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Boggs,none,unknown,Ser
+0,Galtry,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Tommard Heddle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Heddle,none,unknown,Ser
+0,Vyrwell,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Vyrwell,none,unknown,Lady
+0,Sunderland,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Sunderland,none,unknown,Lord
+0,Addam Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Ser
+0,Mallor,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Cosgrove,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Harbert Paege,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Paege,none,unknown,Ser
+0,Argrave,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Eden Risley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Risley,none,unknown,Ser
+0,Will,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Jenny,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Clarence Charlton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Charlton,none,unknown,Ser
+0,Lothar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+0,Mooton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mooton,none,unknown,Lord
+0,Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,Lord
+0,Darklyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darklyn,none,unknown,Lord
+0,Haegon Blackfyre,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackfyre,none,unknown,
+0,Archmaester Gyldayn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Archmaester
+0,Alicent Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Queen
+0,Rickard Thorne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Thorne,none,unknown,Ser
+0,Steffon Darklyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darklyn,none,unknown,Ser
+0,Willis Fell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fell,none,unknown,Ser
+0,Lorent Marbrand,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Marbrand,none,unknown,Ser
+0,Grand Maester Orwyle,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+0,Lyman Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Lord
+0,Tyland Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Ser
+0,Larys Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,Lord
+0,Jasper Wylde,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wylde,none,unknown,Lord
+0,Septon Eustace,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Septon
+0,Baelon Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,ss Rhaenys Velaryon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Princess
+0,Daemon Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,ss Helaena Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+0,Aemond Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Laenor Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Ser
+0,Daeron Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Dalton Greyjoy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greyjoy,none,unknown,Lord
+0,Laena Velaryon,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Lady
+0,Bar Emmon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bar Emmon,none,unknown,Lord
+0,Gormon Massey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Massey,none,unknown,Lord
+0,Bartimos Celtigar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Celtigar,none,unknown,Lord
+0,Crabb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crabb,none,unknown,Lord
+0,Tarth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarth,none,unknown,Lord
+0,Roderick Dustin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dustin,none,unknown,Lord
+0,Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,Lord
+0,Jeyne Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lady
+0,Boremund Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lord
+0,Borros Baratheon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Baratheon,none,unknown,Lord
+0,Visenya Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,
+0,Lucerys Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Prince
+0,Joffrey Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Prince
+0,Staunton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Staunton,none,unknown,Lord
+0,Darklyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darklyn,none,unknown,Lord
+0,Corlys Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Lord
+0,Maelor Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Baela Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Lady
+0,ss Rhaena Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+0,Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lord
+0,Gwayne Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+0,Simon Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,Ser
+0,Borrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Borrell,none,unknown,Lord
+0,Rhaena Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Lady
+0,Blood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Cheese,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Jaehaerys Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,ss Jaehaera Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+0,Owen Costayne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Costayne,none,unknown,Lord
+0,Mullendore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mullendore,none,unknown,Lord
+0,Alan Tarly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,Lord
+0,Thaddeus Rowan,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rowan,none,unknown,Lord
+0,Grimm,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grimm,none,unknown,Lord
+0,Jocelyn Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Lady
+0,Denys,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Hugh,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Ulf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Addam,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Alyn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Nettles,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Sharako Lohar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lohar,none,unknown,
+0,Ormund Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Lord
+0,Tom Flowers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Flowers,none,unknown,
+0,Alan Beesbury,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Beesbury,none,unknown,Ser
+0,Jon Roxton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Roxton,none,unknown,Ser
+0,Walys Mooton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mooton,none,unknown,Lord
+0,Manfryd Mooton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mooton,none,unknown,Lord
+0,Luthor Largent,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Largent,none,unknown,Ser
+0,Lefford,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lefford,none,unknown,Lord
+0,Forrest Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,Lord
+0,Robb Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+0,Longleaf,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Bigglestone,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bigglestone,none,unknown,Lord
+0,Chambers,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Chambers,none,unknown,Lord
+0,Perryn,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Perryn,none,unknown,Lord
+0,Garibald Grey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Grey,none,unknown,Ser
+0,Benjicot Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,Lord
+0,Swyft,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swyft,none,unknown,Lord
+0,Reyne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Reyne,none,unknown,Lord
+0,Clarent Crakehall,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Crakehall,none,unknown,Ser
+0,Tyler Hill,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Hill,none,unknown,Ser
+0,Alys Rivers,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Rivers,none,unknown,
+0,Medrick Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,
+0,Torrhen Manderly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Manderly,none,unknown,
+0,Jason Lannister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lannister,none,unknown,Lord
+0,Meredyth Darklyn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darklyn,none,unknown,Lady
+0,Bryndon Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+0,Footly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Footly,none,unknown,Lord
+0,Robert Quince,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Quince,none,unknown,Ser
+0,Hobert Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Ser
+0,Unwin Peake,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Peake,none,unknown,Lord
+0,Norren,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+0,Florian Greysteel,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Greysteel,none,unknown,Ser
+0,Darla Deddings,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Deddings,none,unknown,Lady
+0,Davos Dedding,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dedding,none,unknown,Lord
+0,Perkin,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Trystane,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Balon Byrch,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Byrch,none,unknown,Ser
+0,Garth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Ser
+0,Mysaria,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Lady
+0,Glendon Goode,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Goode,none,unknown,Ser
+0,The Shepherd,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Mushroom,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Robin,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Harwin Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,Ser
+0,Hobb,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,The Burning Knight,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Warrick Wheaton,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Wheaton,none,unknown,Ser
+0,Bean,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Roger Corne,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Corne,none,unknown,Ser
+0,Tyler Norcross,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Norcross,none,unknown,Ser
+0,Marq Ambrose,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ambrose,none,unknown,
+0,Richard Rodden,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Rodden,none,unknown,
+0,Owen Fossoway,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Fossoway,none,unknown,
+0,Trombo,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,
+0,Piper,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Piper,none,unknown,Lord
+0,Deddings,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Deddings,none,unknown,Lord
+0,Billy Burley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Burley,none,unknown,
+0,Stokeworth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Stokeworth,none,unknown,Lord
+0,Lyonel Bentley,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bentley,none,unknown,Ser
+0,Harrold Darke,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Darke,none,unknown,Ser
+0,Alfred Broome,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Broome,none,unknown,Ser
+0,Adrian Redfort,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Redfort,none,unknown,Ser
+0,Loreth Lansdale,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lansdale,none,unknown,Ser
+0,Tom Tangletongue,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tangletongue,none,unknown,
+0,Marston Waters,0,M,30,0,0,0,1,0,0,0,5.5,unknown,unknown,Waters,none,unknown,Ser
+0,Hunnimore,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Maester
+0,ss Saera Targaryen,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Princess
+0,Aemma Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Lady
+0,ss Daella Arryn,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Arryn,none,unknown,Princess
+0,Rhea Royce,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Royce,none,unknown,Lady
+0,Hightower,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Hightower,none,unknown,Lord
+0,Dondarrion,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Dondarrion,none,unknown,Lord
+0,Lymond Mallister,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Mallister,none,unknown,Lord
+0,Lyonel Strong,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Strong,none,unknown,Lord
+0,Baelon Targaryen,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Targaryen,none,unknown,Prince
+0,Grand Maester Runciter,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+0,Craghas Drahar,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Drahar,none,unknown,
+0,Johanna Swann,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Lady
+0,Swann,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Swann,none,unknown,Lord
+0,Captain Racallio Ryndoon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Ryndoon,none,unknown,Captain
+0,The Empress of Leng,0,F,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Empress
+0,Harrold Westerling,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Westerling,none,unknown,Ser
+0,Grand Maester Mellos,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,,none,unknown,Grand Maester
+0,Bracken,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Bracken,none,unknown,Lord
+0,Blackwood,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Blackwood,none,unknown,Lord
+0,Frey,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Frey,none,unknown,
+0,Tully,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tully,none,unknown,Lord
+0,Tyrell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tyrell,none,unknown,Lord
+0,Oakheart,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Oakheart,none,unknown,Lord
+0,Tarly,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Tarly,none,unknown,Lord
+0,Martell,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Martell,none,unknown,Prince
+0,Joffrey Lonmouth,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Lonmouth,none,unknown,Ser
+0,Qarl Correy,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Correy,none,unknown,Ser
+0,Vaemond Velaryon,0,M,30,0,0,0,0,0,0,0,5.5,unknown,unknown,Velaryon,none,unknown,Ser
